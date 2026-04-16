@@ -1,6 +1,7 @@
 # Cards
 
-A Pen created on CodePen.
+Interactive 3D holiday flip card with animations and effects.
 
-Original URL: [https://codepen.io/cosaidepen/pen/KKBwNGg](https://codepen.io/cosaidepen/pen/KKBwNGg).
+## 🔗 Live Demo
+https://cards-amber-two.vercel.app
 
